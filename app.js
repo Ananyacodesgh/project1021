@@ -1,13 +1,15 @@
 
-const readline = require("readline");
+// const readline = require("readline");
 
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-});
+// const rl = readline.createInterface({
+//     input: process.stdin,
+//     output: process.stdout
+// });
 
-rl.question("Enter your name: ", function(name) {
-    console.log("Hello, " + name + "!");
-    console.log("Welcome to Node.js!");
-    rl.close();
-});
+// rl.question("Enter your name: ", function(name) {
+//     console.log("Hello, " + name + "!");
+//     console.log("Welcome to Node.js!");
+//     rl.close();
+// });
+
+console.log("Hello from Feature 1!");
