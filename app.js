@@ -12,4 +12,6 @@
 //     rl.close();
 // });
 
+console.log("Hello World!");
 console.log("Hello from Feature 1!");
+console.log("Hello from Feature 2!");
